@@ -11,6 +11,7 @@ public class Main {
         System.out.println("hello");
     }
 
+
     public void test(){
         System.out.println("test method");
     }
